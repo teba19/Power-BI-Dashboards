@@ -18,12 +18,7 @@ It showcases key metrics about customers, rides, price checks, and geographic di
 
 ### 🛠️ Built With:
 - Microsoft Power BI  
-- Mock data (Excel format)
-
----
-
-### 📸 Dashboard Preview:
-![Dashboard Screenshot](dashboard_preview.png)
+- Excel 
 
 ---
 
