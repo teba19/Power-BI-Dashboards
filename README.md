@@ -23,6 +23,4 @@ I’m passionate about data analysis and storytelling through visuals. This repo
 
 Feel free to explore, fork, or suggest improvements!
 
----
 
-⭐ Star this repo if you find it useful, and stay tuned for more dashboards.
