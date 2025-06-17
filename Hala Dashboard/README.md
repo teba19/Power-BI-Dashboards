@@ -9,8 +9,6 @@ This interactive Power BI dashboard was created for HALA, a company that sells w
 - 🧍 Top 5 Customers by Order Count
 - 📈 Average Pages per Session
 
-The dashboard aims to support decision-making through clear visualizations and key performance metrics.
 
 🔧 Tools: Power BI | Excel  
-🗂 Dataset: Simulated business data  
 🎯 Purpose: Performance monitoring & customer analysis
