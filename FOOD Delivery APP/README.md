@@ -1,5 +1,5 @@
-
 Project Overview
+
 
 This project is part of the Data Analytics Capstone.
 We analyzed customer reviews and delivery data from QuickEats, a rapidly growing food delivery platform.
