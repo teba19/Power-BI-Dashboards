@@ -6,6 +6,7 @@ Recently, the company noticed a sudden spike in low ratings (below 3 stars) and 
 
 ⸻
 
+
 🔍 Key Findings
  • Baghdad is the main source of low reviews, accounting for the largest percentage of ratings below 3.
  • Delivery time matters: orders taking longer than 41 minutes received significantly lower ratings, with an average of 70 minutes.
@@ -13,6 +14,7 @@ Recently, the company noticed a sudden spike in low ratings (below 3 stars) and 
  • Kirkuk came second for wrong orders (32.50%).
  • Erbil topped the list for missing items, accounting for 28.26% of bad reviews.
  • There is a clear relationship between Cuisine Type, delivery time, and ratings → when delivery takes longer, bad reviews increase.
+
 
 ⸻
 
