@@ -1,0 +1,4 @@
+device_id,device_type,app_version,user_segment
+D_01,Android,5.1.0,High-Value
+D_02,iOS,4.3.3,New
+D_03,Web,5.1.8,New
