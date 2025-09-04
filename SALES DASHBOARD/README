@@ -1,1 +1,44 @@
+# Sales Dashboard – Supermarket Shop
 
+📌 Overview
+
+This dashboard provides an analysis of supermarket sales for the years 2021 and 2022, using visual insights to track sales performance, profits, and purchasing patterns by sales type and payment mode.
+
+⸻
+
+📊 Key Metrics
+ • Total Sales: 41K
+ • Profit: 7.06K
+ • Profit %: 21%
+
+⸻
+
+📈 Visualizations
+ 1. Monthly Performance
+ • Shows the total sales and profit per month.
+ • Helps track seasonal trends and monthly performance.
+ 2. Daily Sales
+ • Displays daily sales distribution within the month.
+ • Identifies peak sales days.
+ 3. Sales by Type
+ • Direct Sales: 48.48% (20K)
+ • Online: 36.19% (15K)
+ • Wholesaler: 15.33% (6K)
+ 4. Payment Mode
+ • Cash: 49.23% (20K)
+ • Online: 50.77% (21K)
+ 5. Top Products
+ • Highlights the most sold products.
+
+⸻
+
+🎯 Insights
+ • Sales are almost evenly split between cash and online payments.
+ • Direct sales represent the largest share compared to online and wholesale.
+ • Profit margin is 21%, indicating efficient operations.
+ • Certain months, such as January, show stronger performance compared to others.
+
+⸻
+
+🛠 Tools Used
+ • Power BI 
